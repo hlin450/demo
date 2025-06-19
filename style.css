@@ -1,0 +1,36 @@
+body {
+  background-color: peachpuff;
+}
+h1 {
+  color: crimson;
+  font-weight: bold;
+  font: size 50px;
+  text-align: center;
+  font-family: Roboto;
+}
+img {
+  display: block; /* Makes the image a block-level element */
+  margin: 0 auto; /* Centers the image horizontally */
+  border: 10px solid black;
+}
+
+h2 {
+  color: crimson;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.title {
+  width: 2220px;
+}
+
+.artist {
+  width: 2220px;
+  padding: 1px;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+  font-family: Roboto;
+}
